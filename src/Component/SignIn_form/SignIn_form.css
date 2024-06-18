@@ -1,11 +1,12 @@
 .signin_container{
   box-sizing: border-box;
   width: 100%;
-  max-width: 480px;
+  /* max-width: 480px; */
   padding: 20px;
   /* border: 1px solid black; */
   /* border-radius: 5px; */
   color: #333;
+  background:#ffffff;
 }
 
 
